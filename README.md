@@ -16,7 +16,7 @@ Menyajikan informasi kepada pengguna serta menangani input yang diberikan penggu
 Berfungsi sebagai penghubung antara View dan Model. Controller menerima permintaan dari pengguna, memprosesnya (bila perlu melalui Model), lalu mengirimkan hasilnya kembali ke View.
 
 ## Desain Database
-
+<img width="933" height="349" alt="Screenshot 2025-11-15 190452" src="https://github.com/user-attachments/assets/7033620b-2052-48ed-b96f-8a54423eacfc" />
 
 ## Desain Program
 
